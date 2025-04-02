@@ -1,5 +1,7 @@
 FeatureEngineeringAssignment01_StudentDataSet
+
 ******************************Problem Statement 1****************************************
+
 Dataset : https://taxila-aws.bits-pilani.ac.in/pluginfile.php/1293672/mod_assign/intro/Student_performance_data.csv 
 
 This dataset contains comprehensive information on 2,392 high school students, detailing their demographics, study habits, parental involvement, extracurricular activities, and academic performance. The target variable- GPA, providing a robust dataset for educational research, predictive modeling, and statistical analysis.
